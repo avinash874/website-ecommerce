@@ -26,7 +26,6 @@ export default function ConditionTag({ condition }) {
         return "bg-brand-light text-brand-dark border-gray-200";
     }
   };
-
   return (
     <div className="flex flex-col gap-2">
       <h4 className="text-[14px] font-bold text-brand-dark uppercase tracking-tight">Condition</h4>
